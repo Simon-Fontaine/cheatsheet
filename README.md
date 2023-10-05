@@ -2,7 +2,7 @@
 
 Ce repo a été créé dans le cadre du cours **`administration systèmes et réseaux I (Théorie + Pratique)`**.
 
-Accedez au wiki en selectionnant l'onglet **`Wiki`** au dessus ou en cliquant **[ici](https://github.com/Simon-Fontaine/cheatsheet/wiki)**.
+Accédez au wiki en sélectionnant l'onglet **`Wiki`** au-dessus ou en cliquant **[ici](https://github.com/Simon-Fontaine/cheatsheet/wiki)**.
 
 ## Structure du Wiki
 
